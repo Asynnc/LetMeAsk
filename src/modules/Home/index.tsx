@@ -1,6 +1,6 @@
 import { useHistory } from 'react-router-dom';
 import googleICON from '../../assets/google-icon.svg';
-import illustrationIMG from '../../assets/illustration.svg';
+import illustrationIMG from '../../assets/faq.svg';
 import logoIMG from '../../assets/logo.svg';
 import Button from '../../components/Button';
 import { useAuth } from '../../hooks/auth/useAuth';
